@@ -97,8 +97,6 @@ weight:
 
 # === 社交/短视频/娱乐类 ===
 platforms:
-  - id: "weibo"
-    name: "微博"
   - id: "douyin"
     name: "抖音"
   - id: "bilibili-hot-search"
@@ -107,27 +105,4 @@ platforms:
     name: "贴吧"
   - id: "zhihu"
     name: "知乎"
-  - id: "hupu"
-    name: "虎扑"
 
-      # === 科技类平台 ===
-  - id: "ithome"
-    name: "IT之家"
-  - id: "juejin"
-    name: "掘金"
-  - id: "github"
-    name: "GitHub"
-  - id: "hackernews"
-    name: "Hacker News"
-  - id: "solidot"
-    name: "Solidot"
-  - id: "v2ex"
-    name: "V2EX"
-  - id: "nowcoder"
-    name: "牛客网"
-  - id: "pcbeta"
-    name: "远景论坛"
-  - id: "sspai"
-    name: "少数派"
-  - id: "producthunt"
-    name: "ProductHunt"
